@@ -27,7 +27,10 @@ body{
 
 b{
   font-weight: 900;
-  color: #9067C6;
+  background: linear-gradient(270deg,#DF8908 -5.09%, #B415FF 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 /* Scrollbar */
@@ -90,7 +93,10 @@ b{
   font-size: 32px;
   letter-spacing: 2px;
   padding-left: 7%;
-  color: #9067C6;
+  background: linear-gradient(270deg,#DF8908 -5.09%, #B415FF 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   display: flex;
   align-items: center;
   text-align: center;
@@ -127,7 +133,7 @@ b{
   color: #ffffff;
 }
 .NavbarLinks a::after{
-  background-color: #ffffff;
+  background: linear-gradient(264deg,#DF8908 -5.09%,#B415FF 106.28%);
   content: "";
   position: absolute;
   height: 3px;
@@ -156,9 +162,10 @@ b{
     justify-content: flex-start;
     position: fixed;
     inset: 0 0 0 50%;
-    gap: 50px;
-    background-color:#431f47;
-    height: 100vh;
+    gap: 30px;
+    background-color:hsla(294, 39%, 20%, 0.856);
+    height: 350px;
+    border-radius: 50px;
     padding-top: max(20%,120px);
     transform: translateX(100%);
     transition: 0.5s;
@@ -345,7 +352,7 @@ b{
   align-items: center;
   justify-content: center;
   margin: 0px 25px 25px 0px;
-  border: 3px solid #431f47;
+  border: 3px solid #df8908bb;
   font-size: 64px;
   border-radius: 5px;
   transition: 0.5s;
@@ -401,7 +408,7 @@ b{
 
 .projectBox{
   width: 350px;
-  border: 3px solid #431f47;
+  border: 3px solid #df8908c2;
   border-radius: 5px;
   text-align: center;
   padding: 15px;
