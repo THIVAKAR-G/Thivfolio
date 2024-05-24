@@ -14,7 +14,7 @@ const Home = () => {
 
         <div className='HomeText'>
           <h1>Hi There 👋!</h1>
-          <h1>I'M <b>TAMILMANI</b></h1>
+          <h1>I'M <b>THIVAKAR</b></h1>
           <Typed/>   
         </div>
 
