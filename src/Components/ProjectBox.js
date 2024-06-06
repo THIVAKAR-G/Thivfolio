@@ -5,9 +5,9 @@ import {CgFileDocument} from "react-icons/cg";
 
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
-    PizzaBoyDesc : "This website is a landing page of Pizza Boy Restradunt. It is a responsive website which was made to understand Bootstrap. I also learned how to host my project on Github and then how to deploy that project using Github pages.",
+    PizzaBoyDesc : "This website is a landing page of Pizza Boy Restaurant. It is a responsive website which was made to understand Bootstrap. I also learned how to host my project on Github and then how to deploy that project using Github pages.",
     PizzaBoyGithub : "http//github.com/THIVAKAR-G/OCTANET_APRIL.git",
-    PizzaBoyWebsite : "https://thivakar-g.github.io/OCTANET_APRIL/",
+    PizzaBoyWebsite : "https://pizzaboy-phi.vercel.app/",
 
     Spartanz2k24Desc : "These website developed to our collage syposiyum.It is responsible to adapted in all screen. my collage was appreciated to these project",
     Spartanz2k24Github : "httpsgithub.com/THIVAKAR-G/Spartanz2k24.git",
