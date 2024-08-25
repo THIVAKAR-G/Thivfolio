@@ -36,13 +36,12 @@ const About = () => {
         
         <Skills skill='React' />
         <Skills skill='Node' />
-        <Skills skill='Github' />
         <Skills skill='Javascript' />
-        <Skills skill='Vercel' />
-        <Skills skill='Npm' />
         <Skills skill='Bootstrap'/>
         <Skills skill='Express' />
         <Skills skill='MongoDB' />
+        <Skills skill='Java' />
+                
       </div>
     </>
   )
