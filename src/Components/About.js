@@ -40,7 +40,6 @@ const About = () => {
         <Skills skill='Bootstrap'/>
         <Skills skill='Express' />
         <Skills skill='MongoDB' />
-        <Skills skill='Java' />
                 
       </div>
     </>
